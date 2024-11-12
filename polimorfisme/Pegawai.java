@@ -1,6 +1,6 @@
 public class Pegawai {
-  private String nip;
-  private String nama;
+  String nip;
+  String nama;
 
   public Pegawai() {
 
